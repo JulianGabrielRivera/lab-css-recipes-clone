@@ -5,7 +5,7 @@ body {
 
 .hero-image {
   background-image: url('../images/apple-pie.jpg');
-  background-position: center;
+  /* background-position: center; */
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -19,8 +19,8 @@ body {
   font-size: 100px;
 }
 header {
-  margin-left: 20rem;
-  margin-right: 20rem;
+  /* margin-left: 20rem;
+  margin-right: 20rem; */
 }
 article {
   margin-left: 28rem;
